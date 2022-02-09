@@ -1,0 +1,16 @@
+body{
+    background-size:cover;
+    text-align:center;
+}
+#heading_text{
+    color:white;
+    background-color:orange;
+    border-radius:5px;
+    font-size:15px;
+}
+
+canvas{
+    border:2px solid white;
+    border-radius:5px;
+    box-shadow:5px 5px 5px white;
+}
